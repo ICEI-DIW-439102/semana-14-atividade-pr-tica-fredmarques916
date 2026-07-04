@@ -10,8 +10,8 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome: Fred Marques
-- Matricula: [PREENCHA SUA MATRÍCULA AQUI]
+- Nome: Frederico Marcos de Paula Marques
+- Matricula: 907680
 - Proposta de projeto escolhida: Eventos (Calendário Interativo)
 - Breve descrição sobre seu projeto: Uma aplicação onde é possível gerenciar eventos (CRUD - Cadastro de Eventos) que são salvos localmente utilizando o JSON-Server, juntamente de uma tela de "Apresentação" dinâmica. Esta apresentação utiliza a biblioteca **FullCalendar** para renderizar um calendário completo, distribuindo os eventos visualmente de acordo com a data de início e fim e customizando as cores pela categoria do evento.
 
@@ -19,6 +19,6 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 Abaixo estão as capturas de tela mostrando a nova funcionalidade de calendário integrada aos dados mockados do JSON-Server:
 
-<< SUBSTITUA ESTE TEXTO PELO SEU PRIMEIRO PRINT AQUI (Ex: Uma visão geral do mês no calendário) >>
+![Calendário](public/assets/img/print2.png)
 
-<< SUBSTITUA ESTE TEXTO PELO SEU SEGUNDO PRINT AQUI (Ex: Um evento sendo clicado ou uma visão semanal) >>
+![Formulário de Eventos](public/assets/img/print1.png)
